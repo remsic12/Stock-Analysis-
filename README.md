@@ -7,8 +7,10 @@ The purpose of this project was to create a stock analysis file for our friend K
 Overall the selection of stocks that Kevin's parents are interested in investing in had strong returns in 2017 but only 2 of the companies saw YoY growth in their returns in 2018. The best performing stock was >ENPH who had positive returns in both 2017 and 2018 and a 78.4% YoY growth in returns from 2017 to 2018. 
 ![All Results](https://user-images.githubusercontent.com/79228491/124289244-b60d7c80-db17-11eb-99bf-988e9d736f01.PNG)
 ###### ** Execution Time**
-The execution time on the refactored script was faster and more efficient than our original VBA script. As you can see below our 2017 and 2018 scripts ran in under half a second
-.![VBA_Challenge_2017](https://user-images.githubusercontent.com/79228491/124290600-3d0f2480-db19-11eb-8890-25ff4a097ca8.PNG)
+The execution time on the refactored script was faster and more efficient than our original VBA script. As you can see below our 2017 and 2018 scripts ran in under half a second.
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/79228491/124290600-3d0f2480-db19-11eb-8890-25ff4a097ca8.PNG)
+
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/79228491/124290605-3e405180-db19-11eb-9c43-3d8f5c443db1.PNG)
 
 ##**Summary**
