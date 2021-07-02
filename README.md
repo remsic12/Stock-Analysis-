@@ -15,9 +15,9 @@ The execution time on the refactored script was faster and more efficient than o
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/79228491/124290605-3e405180-db19-11eb-9c43-3d8f5c443db1.PNG)
 
-##**Summary**
+## **Summary**
 
-######Pros and Cons of Refactoring Code:
+###### Pros and Cons of Refactoring Code:
 
 **Pros**
 The advantages of refactoring the code is that it helped the code become more organized by being easier to read and understand what each section of codes purpose was when running. By becoming more organized it also helps run time decrease and makes it easier to debug for the user. All of the benefits for the creater follow suit for any other users of the file; if Kevin wanted to see what we wrote out for his code it woud be a lot easier for him to understand each step of the code we wrote for him.
@@ -25,7 +25,7 @@ The advantages of refactoring the code is that it helped the code become more or
 **Cons**
 The only real disadvantage to refactoring the code was that it was time consuming, in this case the refactoring we did saved us a couple seconds from the original code in terms of run time.
 
-######Pros and Cons of Refactoring _this vba script_
+###### Pros and Cons of Refactoring _this vba script_
 
 **Pros**
 By refactoring the script I was able to debug my mistakes faster. Another pro is that we decreased the run time of the script making a more efficent product for Kevin. Another advantage of refactoring the code is that Kevin will be able to better underestand it when he gets the file. On a personal level refactoring the code was very benefical in helping me learn VBA code and understanding what I was doing.
